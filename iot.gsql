@@ -1,9 +1,6 @@
 
 // CREATE GRAPH gname (vertex_or_edge_type, vertex_or_edge_type...) [WITH ADMIN username]
 
-CREATE GRAPH Book_rating () 
-
-
 // CREATE VERTEX vertex_type_name (primary_id_name_type
 //     [, attribute_name type [DEFAULT default_value] ]*)
 //     [WITH [STATS="none"|"outdegree_by_edgetype"][primary_id_as_attribute="true"]]
